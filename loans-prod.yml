@@ -1,0 +1,6 @@
+loans:
+  message: "from prod server"
+  details:
+    name: "Aneesh_prod"
+    email: "aneesh06251@gmil.com"
+  num: 7339104055

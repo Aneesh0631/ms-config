@@ -1,0 +1,6 @@
+loans:
+  message: "Welcome to accounts qa ms"
+  details:
+    name: "Aneesh"
+    email: "aneesh.qa@gmail.com"
+  num: 7339104055

@@ -1,0 +1,9 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to accounts ms qa API"
+  details:
+    name: "Aneesh"
+    email: "aneesh@gmail.com"
+  num: 7339104055

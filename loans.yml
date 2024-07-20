@@ -1,0 +1,9 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to accounts ms"
+  details:
+    name: "Aneesh"
+    email: "aneesh@gmail.com"
+  num: 7339104055

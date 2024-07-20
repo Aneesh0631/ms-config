@@ -1,0 +1,6 @@
+cards:
+  message: "Welcome to cards qa"
+  details:
+    name: "Aneesh"
+    email: "aneesh@gmail.com"
+  num: 7339104055
